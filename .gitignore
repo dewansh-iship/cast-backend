@@ -4,7 +4,7 @@ backend/data/db.sqlite
 backend/data/*.sqlite
 backend/data/*.sqlite-shm
 backend/data/*.sqlite-wal
-.env
 backend/.env
 uploads/
 backend/uploads
+config.bat
